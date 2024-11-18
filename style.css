@@ -34,6 +34,7 @@ nav {
 .same-icons input {
   width: 80%;
   height: 40px;
+  font-weight: 300;
 }
 .same-icons i {
   font-size: 1.2em;
@@ -56,12 +57,10 @@ input:focus {
   outline: none;
 }
 .nav-content {
-  /* background-color: aqua; */
   width: 50%;
   height: 100px;
   display: flex;
   align-items: center;
-  /* border: 2px solid black; */
   justify-content: space-between;
   padding: 0 2vw;
 }
